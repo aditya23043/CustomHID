@@ -63,7 +63,7 @@
 
 ## Cheap Keeb (28 keys)
 
-[![cheap keeb](./assets/IMG_0890.JPG)](https://github.com/aditya23043/cheapino)
+[![cheap keeb](./assets/IMG_0890.jpeg)](https://github.com/aditya23043/cheapino)
 
 - Intended to be an ultra compact and a cheap keyboard
 - MCU: Waveshare RP2040 Zero
