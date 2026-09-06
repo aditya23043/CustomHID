@@ -2,21 +2,17 @@
 
 ## First Iteration (20 keys)
 
-[![20 key keyboard](./assets/1.jpeg)](https://github.com/aditya23043/split_keyboard)
+[![20 key keyboard](./assets/IMG_5758.jpg)](https://github.com/aditya23043/split_keyboard)
 
 - Fully Wired (with QMK) or semi-wireless (with custom firmware which is not mature enough)
 - AA batteries. (no need to worry about battery degradation that we have with Li-Po batteries)
 - MCU: Raspberry Pi Pico W
 
-### Fully Wired Equivalent
-
-[![20 key keyboard](./assets/IMG_5758.jpg)](https://github.com/aditya23043/split_keyboard)
-
 ### Problems
 
 - 20 keys is too less to implement a practical keymap
 - PCB does not have mounting holes for a proper case
-- Standard AA batteries are heavy
+- Standard AA batteries are heavy (in the semi-wireless one)
 
 ## ESD Keyboard (36 keys)
 
