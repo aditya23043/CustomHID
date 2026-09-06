@@ -1,4 +1,8 @@
-# Custom input devices
+# Custom Ergonomic Input Devices
+
+> Click on the keyboard image to go its github repository
+
+---
 
 ## First Iteration (20 keys)
 
@@ -13,6 +17,8 @@
 - 20 keys is too less to implement a practical keymap
 - PCB does not have mounting holes for a proper case
 - Standard AA batteries are heavy (in the semi-wireless one)
+
+---
 
 ## ESD Keyboard (36 keys)
 
@@ -36,19 +42,35 @@
 - Heat set inserts for mounting can be a bit unstable after frequent
   disassembly
 
+---
+
 ## Silent Mechanical Keyboard (36 keys)
 
 [![silent keeb](./assets/IMG_3574.JPG)](https://github.com/aditya23043/split36v2)
 
+- Handwired design without a PCB
 - Fully mature enclosure with several screw offsets for structural integrity
 - Fully wired keyboard with inter-connection using USB Type-C cable
+- Experimented the column splay for the pinky and ring finger for enhanced
+  ergonomics
 - MCU hidden inside the enclosure and can enter bootloader mode when pressed the case above the mcu.
 - Silent mechanical switches
 - MCU: Raspberry Pi Pico W
 - Firmware: QMK
 
+---
+
 ## Cheapino (36 keys)
 
 [![cheapino](./assets/IMG_3587.JPG)](https://github.com/aditya23043/cheap_hw)
 
-- 
+- Designed to be a cheap handwired keyboard with just a top and a bottom
+  plate for enclosure held together with metal standoffs with the wiring in-between
+- It **had** to be a fully wired build due to the budget constraint for this build
+- Similar to previous keyboard but with the much smaller Waveshare Rp2040 Zero MCU
+- Firmware: QMK
+- More aggressive thumb cluster angle along with the pinky and ring finger
+  column splay (angle)
+- Inter-connectivity between the halves with USB type-c cable
+
+---
