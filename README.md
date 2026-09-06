@@ -20,7 +20,7 @@
 
 ## ESD Keyboard (36 keys)
 
-[![esd keeb](./assets/IMG_0150.png)](https://github.com/aditya23043/split36)
+[![esd keeb](./assets/IMG_0150.jpg)](https://github.com/aditya23043/split36)
 
 - Fully Wired only with TRRS port for inter-connectivity
 - Proper enclosure to avoid damage to the electronic components
