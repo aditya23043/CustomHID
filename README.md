@@ -6,11 +6,16 @@
 
 ## First Iteration (20 keys)
 
+<br><br><a href="https://github.com/aditya23043/split_keyboard"><p align="center" style="margin-top=10rem;margin-bottom=10rem;"><img src="./assets/IMG_5758.jpg" height=auto style="display: block; margin-right: auto; margin-left: auto"></p></a><br><br>
+
 [![20 key keyboard](./assets/IMG_5758.jpg)](https://github.com/aditya23043/split_keyboard)
 
 - Fully Wired (with QMK) or semi-wireless (with custom firmware which is not mature enough)
 - AA batteries. (no need to worry about battery degradation that we have with Li-Po batteries)
 - MCU: Raspberry Pi Pico W
+
+> [!NOTE]
+> [Assembly Video](https://youtu.be/sDFPSLh6BhQ)
 
 ### Problems
 
@@ -30,6 +35,9 @@
 - Firmware: QMK
 - Matured keymap capable of replacing the traditional keyboard fully
 - [linkedin post](https://www.linkedin.com/posts/aditya23043_just-completed-my-most-ambitious-project-activity-7335380768921198593-B5wh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb0rpkBcvkxpg6PQ2YDkrWiA3oRIAywLL4) (with demo)
+ 
+> [!NOTE]
+> [Assembly Video](https://youtu.be/kpw8LIIt7Tc)
 
 ### Problems
 
