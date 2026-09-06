@@ -2,7 +2,7 @@
 
 ## First Iteration (20 keys)
 
-[![20 key keyboard](./assets/split20.jpeg)](https://github.com/aditya23043/split_keyboard)
+[![20 key keyboard](./assets/1.jpeg)](https://github.com/aditya23043/split_keyboard)
 
 - Fully Wired (with QMK) or semi-wireless (with custom firmware which is not mature enough)
 - AA batteries. (no need to worry about battery degradation that we have with Li-Po batteries)
@@ -10,7 +10,7 @@
 
 ### Fully Wired Equivalent
 
-[![20 key keyboard](./assets/IMG_5758.png)](https://github.com/aditya23043/split_keyboard)
+[![20 key keyboard](./assets/IMG_5758.jpg)](https://github.com/aditya23043/split_keyboard)
 
 ### Problems
 
@@ -20,14 +20,14 @@
 
 ## ESD Keyboard (36 keys)
 
-[![esd keeb](./assets/IMG_0150.JPG)](https://github.com/aditya23043/split36)
+[![esd keeb](./assets/IMG_0150.png)](https://github.com/aditya23043/split36)
 
 - Fully Wired only with TRRS port for inter-connectivity
 - Proper enclosure to avoid damage to the electronic components
 - Hot-swappable MCU: Raspberry Pi Pico W
 - Firmware: QMK
 - Matured keymap capable of replacing the traditional keyboard fully
-- [https://www.linkedin.com/posts/aditya23043_just-completed-my-most-ambitious-project-activity-7335380768921198593-B5wh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb0rpkBcvkxpg6PQ2YDkrWiA3oRIAywLL4](LinkedIn post) (with demo)
+- [linkedin post](https://www.linkedin.com/posts/aditya23043_just-completed-my-most-ambitious-project-activity-7335380768921198593-B5wh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb0rpkBcvkxpg6PQ2YDkrWiA3oRIAywLL4) (with demo)
 
 ### Problems
 
