@@ -6,7 +6,7 @@
 
 ## First Iteration (20 keys)
 
-<br><br><a href="https://github.com/aditya23043/split_keyboard"><p align="center" style="margin-top=10rem;margin-bottom=10rem;"><img src="./assets/IMG_5758.jpg" height=auto style="display: block; margin-right: auto; margin-left: auto"></p></a><br><br>
+<br><br><p align="center" style="margin-top=10rem;margin-bottom=10rem;"><a href="https://github.com/aditya23043/split_keyboard"><img src="./assets/IMG_5758.jpg" height=auto style="display: block; margin-right: auto; margin-left: auto"></a></p><br><br>
 
 [![20 key keyboard](./assets/IMG_5758.jpg)](https://github.com/aditya23043/split_keyboard)
 
