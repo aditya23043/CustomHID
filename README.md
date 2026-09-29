@@ -103,3 +103,10 @@
   lesser key travel
 - Rechargable Lithium-Polymer batteries utilized
 - NOTE: I have not made the PCB; it has been taken from https://github.com/davidphilipbarr/Sweep
+
+
+## Cygnus (42 keys)
+
+> Work in progress
+
+https://github.com/aditya23043/cygnus
